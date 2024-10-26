@@ -1,3 +1,5 @@
+
+<h1>Game Detona Raph 🕹🤓</h1>
 Estive atualmente estudando JavaScript então resolvi implementar um jogo dinâmico e envolvente inspirado no clássico Whac-a-Mole.🕹 Aqui está uma visão geral das mecânicas principais:
 
 Jogabilidade Intensa: Os jogadores correm contra o tempo para acertar o alvo que aparece dentro de um limite de tempo. ⏱️
